@@ -25,7 +25,7 @@ RUN apt-get update \
   iputils-ping \
   kmod \
   lsof \
-  microsocks-simosx \
+  # microsocks \
   nano \
   net-tools \
   nftables \
