@@ -4,6 +4,8 @@
 
 A Docker container with the linux Mullvad cli client.
 
+TEST
+
 # Setup
 
 Before running setup a folder to contain your mullvad setting files such as `"myappdata/mullvadvpn"`
