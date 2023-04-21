@@ -1,8 +1,8 @@
 # syntax=docker/dockerfile:1
 
-FROM ubuntu:latest
-MAINTAINER gvkhna
-LABEL org.opencontainers.image.authors="gvkhna@gvkhna.com"
+FROM ubuntu:focal
+
+#LABEL org.opencontainers.image.authors="gvkhna@gvkhna.com"
 LABEL org.opencontainers.image.description Mullvad CLI Docker Image
 
 ENV container docker
