@@ -2,7 +2,7 @@
 
 FROM ubuntu:focal
 
-#LABEL org.opencontainers.image.authors="gvkhna@gvkhna.com"
+LABEL org.opencontainers.image.authors="gvkhna@gvkhna.com"
 LABEL org.opencontainers.image.description Mullvad CLI Docker Image
 
 ENV container docker

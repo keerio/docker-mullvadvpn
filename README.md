@@ -4,7 +4,7 @@
 
 A Docker container with the linux Mullvad cli client.
 
-# Building on Ubuntu 20.04 Focal
+# Building on Ubuntu 20.04 Focal 1
 
 # Setup
 
